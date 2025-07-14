@@ -1,5 +1,6 @@
 import * as actions from '../actions';
 
+
 const initialState = {
   ethernaut: undefined,
   levels: {},
